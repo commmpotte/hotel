@@ -11,12 +11,12 @@ import {
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAAq9bbmK6zbQ_i56MskQU0bUqUu3_AMPk",
-  authDomain: "hotel4-9f64f.firebaseapp.com",
-  projectId: "hotel4-9f64f",
-  storageBucket: "hotel4-9f64f.appspot.com",
-  messagingSenderId: "242356427771",
-  appId: "1:242356427771:web:da5addb8b921bdf673895e"
+  apiKey: "AIzaSyAd78tW78kKCr8tmqhkRUL2Nqgzd-yGbjc",
+  authDomain: "hotel-v4-dev-2022.firebaseapp.com",
+  projectId: "hotel-v4-dev-2022",
+  storageBucket: "hotel-v4-dev-2022.appspot.com",
+  messagingSenderId: "1083759955466",
+  appId: "1:1083759955466:web:593802bb84aa765952d9f3"
 };
 
 // Initialize Firebase
