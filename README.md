@@ -1,4 +1,5 @@
 Intro
+
 So here I tried to explore some basic things in React app. I created a simple design (via boostrap) website where you can find a list of hotels and add your own hotel after logging in. I explored how React hooks work with a database and how works login/log out the logic in the app. I deployed this web application through firebase, but it can't work because I chose a test mode for editing. That’s why I add some screenshots. 
 
 ##Some screenshots
